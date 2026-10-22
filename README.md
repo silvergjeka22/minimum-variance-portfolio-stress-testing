@@ -147,10 +147,3 @@ jupyter notebook notebooks/mvp_stress_testing_lstm.ipynb
 ```
 
 The notebook downloads the price data from Yahoo Finance when it runs, so an internet connection is needed. Results can change slightly from the ones above because new price data is added over time and because LSTM training is random.
-
-## Authors
-
-- Giacomo Lucato
-- Silver Gjeka
-
-University of Verona, Master's Degree in Artificial Intelligence, AI in Finance course.
